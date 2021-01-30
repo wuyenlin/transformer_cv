@@ -8,10 +8,11 @@ I will do my best to update this list down the road. :)
 <img src="transformer.png" alt="Transformer" height="500" class="center">
 
 ### Blog Post:
- 1. Great article with graphs for better  understanding (by Jay Alammar) [[link]](http://jalammar.github.io/illustrated-transformer/)
- 2. Good explanation with step-by-step code (by Peter Bloem) [[link]](http://peterbloem.nl/blog/transformers) [[code]](https://github.com/pbloem/former/tree/master/former) [[video]](https://www.youtube.com/watch?v=KmAISyVvE1Y)
- 3. PyTorch official tutorial on implementation of Transformer for Seq2Seq task [[link]](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
- 4. Tensorflow official tutorial on Transformer model for language understanding [[link]](https://www.tensorflow.org/tutorials/text/transformer)
+0. Inotrduction to `torch.einsum` [[link]](https://rockt.github.io/2018/04/30/einsum) 
+1. Great article with graphs for better  understanding (by Jay Alammar) [[link]](http://jalammar.github.io/illustrated-transformer/)
+2. Good explanation with step-by-step code (by Peter Bloem) [[link]](http://peterbloem.nl/blog/transformers) [[code]](https://github.com/pbloem/former/tree/master/former) [[video]](https://www.youtube.com/watch?v=KmAISyVvE1Y)
+3. PyTorch official tutorial on implementation of Transformer for Seq2Seq task [[link]](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
+4. Tensorflow official tutorial on Transformer model for language understanding [[link]](https://www.tensorflow.org/tutorials/text/transformer)
 
 
 ### Videos:
@@ -28,5 +29,5 @@ I will do my best to update this list down the road. :)
  3. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Dosovitskiy et al.) (ViT) [[paper]](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) [[code]](https://github.com/google-research/vision_transformer)
  4. Training data-efficient image transformers & distillation through attention (DeiT) (Touvron et al.) [[paper]](https://arxiv.org/abs/2012.12877) [[code]](https://github.com/facebookresearch/deit)
 
-Libraries:
+### Libraries:
  1. PyTorch [[website]](https://pytorch.org/docs/master/generated/torch.nn.Transformer.html#torch.nn.Transformer)
