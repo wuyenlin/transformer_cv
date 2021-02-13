@@ -21,6 +21,7 @@ I will do my best to update this list down the road. :)
      - Attention is All You Need [[video]](https://www.youtube.com/watch?v=iDulhoQ2pro&t=1396s)
      - DETR [[video]](https://www.youtube.com/watch?v=T35ba_VXkMY&t=464s)
      - ViT [[video]](https://www.youtube.com/watch?v=TrdevFK_am4&list=PLJ6JqVWs-N-5kPcEuvY1ZJrmOYAOzuOAw&index=1&t=891s)
+3. **Input + Positional embedding** "Visual Guide to Transformer Neural Networks - (Part 1) Position Embeddings" [[video]](https://www.youtube.com/watch?v=dichIcUZfOw&t=655s)
 
 
 ### Papers:
