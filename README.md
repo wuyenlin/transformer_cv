@@ -13,6 +13,7 @@ I will do my best to update this list down the road. :)
 2. Good explanation with step-by-step code (by Peter Bloem) [[link]](http://peterbloem.nl/blog/transformers) [[code]](https://github.com/pbloem/former/tree/master/former) [[video]](https://www.youtube.com/watch?v=KmAISyVvE1Y)
 3. PyTorch official tutorial on implementation of Transformer for Seq2Seq task [[link]](https://pytorch.org/tutorials/beginner/transformer_tutorial.html)
 4. Tensorflow official tutorial on Transformer model for language understanding [[link]](https://www.tensorflow.org/tutorials/text/transformer)
+5. AI Summer- How Transformers work in Deep Learning and NLP: an intuitive introduction [[link]](https://theaisummer.com/transformer/)
 
 
 ### Videos:
