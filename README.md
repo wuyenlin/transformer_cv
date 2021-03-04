@@ -30,6 +30,8 @@ I will do my best to update this list down the road. :)
  2. End-to-end Object Detection with Transformer (DETR) (Carion et al.) [[paper]](https://ai.facebook.com/research/publications/end-to-end-object-detection-with-transformers) [[code]](https://github.com/facebookresearch/detr)
  3. An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale (Dosovitskiy et al.) (ViT) [[paper]](https://papers.nips.cc/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) [[code]](https://github.com/google-research/vision_transformer)
  4. Training data-efficient image transformers & distillation through attention (DeiT) (Touvron et al.) [[paper]](https://arxiv.org/abs/2012.12877) [[code]](https://github.com/facebookresearch/deit)
+ 5. TransPose: Towards Explainable Human Pose Estimation by Transformer (Yang et al.) [[paper]](https://arxiv.org/pdf/2012.14214.pdf) [[code]](https://github.com/yangsenius/TransPose)
+ 6. Pyramid Vision Transformer: A Versatile Backbone for Dense Prediction without Convolutions (Wang et al.) [[paper]](https://arxiv.org/pdf/2102.12122v1.pdf) [[code]](https://github.com/whai362/PVT)
 
 ### Libraries:
  1. PyTorch [[website]](https://pytorch.org/docs/master/generated/torch.nn.Transformer.html#torch.nn.Transformer)
